@@ -1,0 +1,370 @@
+p {
+    border: 10px solid rgb(2, 2, 2) ;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+table {
+    border-spacing: 120px;
+    color: grey;
+}
+
+
+.name .contenido {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    font-family: Verdana;
+    color: gray;
+    font-size: 30px;
+}
+
+.name .img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    top: 6%;
+    left: 4%;
+    overflow: hidden;
+}
+
+.name .img img {
+    width: 200px;
+    height: 200px;
+}
+
+td.nombre {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    top: 150px;
+    margin-bottom: 150px;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.fechanac {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 110px;
+    padding-bottom: 10px;
+    top: 150px;
+    margin-bottom: 150px;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 280px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.cedula {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 132px;
+    padding-bottom: 10px;
+    top: 100px;
+    margin-bottom: 150px;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 420px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.correo {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 7px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    top: 120px;
+    margin-bottom: 150px;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 480px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+p.perfil {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 30px;
+    padding-left: 43px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    top: 120px;
+    margin-bottom: 150px;
+    margin-left: 70px;
+    position: absolute;
+    margin-top: 560px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 1200px;
+    height: 100px;
+    text-align: center;
+}
+
+a.button {
+    top: 210px;
+    margin-bottom: 150px;
+    margin-left: 630px;
+    position: absolute;
+    margin-top: 640px;
+    margin-bottom: 100px;
+}
+
+a.button2 {
+    top: 210px;
+    margin-bottom: 150px;
+    margin-left: 730px;
+    position: absolute;
+    margin-top: 640px;
+    margin-bottom: 100px;
+}
+
+a.button3 {
+    top: 210px;
+    margin-bottom: 150px;
+    margin-left: 820px;
+    position: absolute;
+    margin-top: 640px;
+    margin-bottom: 100px;
+}
+
+td.pst1 {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    top: 50px;
+    margin-bottom: 150px;
+    margin-left: 280px;
+    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.pst2 {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 72px;
+    padding-right: 110px;
+    padding-bottom: 10px;
+    top: 70px;
+    margin-bottom: 150px;
+    margin-left: 280px;
+    position: absolute;
+    margin-top: 360px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.pst3 {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 110px;
+    padding-bottom: 10px;
+    top: 100px;
+    margin-bottom: 150px;
+    margin-left: 280px;
+    position: absolute;
+    margin-top: 420px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.primaria {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    top: 50px;
+    margin-bottom: 150px;
+    margin-left: 580px;
+    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.secundaria {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 127px;
+    padding-bottom: 10px;
+    top: 70px;
+    margin-bottom: 150px;
+    margin-left: 580px;
+    position: absolute;
+    margin-top: 360px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.profesional {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 147px;
+    padding-bottom: 10px;
+    top: 100px;
+    margin-bottom: 150px;
+    margin-left: 580px;
+    position: absolute;
+    margin-top: 420px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.telefono {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 99px;
+    padding-right: 70px;
+    padding-bottom: 10px;
+    top: 50px;
+    margin-bottom: 150px;
+    margin-left: 890px;
+    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.email {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 198px;
+    padding-bottom: 10px;
+    top: 70px;
+    margin-bottom: 150px;
+    margin-left: 890px;
+    position: absolute;
+    margin-top: 360px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+td.email2 {
+    border: 1px solid gray;
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 85px;
+    padding-bottom: 10px;
+    top: 100px;
+    margin-bottom: 150px;
+    margin-left: 890px;
+    position: absolute;
+    margin-top: 420px;
+    margin-bottom: 100px;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+}
+
+th.nom {
+    position: absolute;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    left: 100px;
+    top: 290px;
+}
+
+th.pasat {
+    position: absolute;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    left: 450px;
+    top: 290px;
+}
+
+th.est {
+    position: absolute;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    left: 750px;
+    top: 290px;
+}
+
+th.con {
+    position: absolute;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    left: 1080px;
+    top: 290px;
+}
+
+h1.h {
+    background-color: rgb(255, 255, 255);
+    color: rgb(119, 119, 119);
+}
+
+h2.tamb {
+    position: absolute;
+    color: gray;
+    font-style: bold;
+    font-size: 20px;
+    left: 700px;
+    top: 805px;
+}
